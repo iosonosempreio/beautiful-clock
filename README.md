@@ -4,7 +4,7 @@ A demo repository to demonstrate GitHub Desktop to students
 ## The Recipe
 1. Install (GitHub Desktop)[https://desktop.github.com/] and login
 2. Create a p5js project on your computer
-3. Open GitHub Desktop then ```New Repository```, ``Add``` and locate the folder of your project
+3. Open GitHub Desktop then ```New Repository```, ```Add``` and locate the folder of your project
 4. Make your first commit (usually called "First commit") on the **master** branch
 5. Publish the project on your GitHub account. Now everything is online and backed up
 6. Create a new branch from master (i.e. "work-of-tommaso") and make sure it is selected from the drop-down menu. A branch is like a copy of the master branch where you can experiment without fear of irreparably damage your project. Once you're done with new improvements you can merge your code to the master in order to maintain an official, stable and updated version of your project.
