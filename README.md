@@ -1,5 +1,5 @@
 # Beautiful Clock
-A demo repository for demonstrating the GitHub flow and the use of the desktop client to students following the CreativeCoding class at (Polimi)[www.polimi.it]
+A demo repository for demonstrating the GitHub flow and the use of the desktop client.
 
 ## The Recipe
 1. Install [GitHub Desktop](https://desktop.github.com/) and login (or sign-up).
